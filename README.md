@@ -11,7 +11,7 @@
 
 ## 💖 Sobre mim
 
-- 🌷 Nome: **Lucas Andrey maurício**
+- 🌷 Nome: **Lucas **
 - 🎀 Amo tudo rosa
 - 🌊 Estudando programação 
 - 💻 Desenvolvedora em evolução

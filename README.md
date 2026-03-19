@@ -1,7 +1,7 @@
 <!-- WAVE TOP -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
-<h1 align="center">🌸 Olá, eu sou a Izumilg 🌸</h1>
+<h1 align="center">🌸 Olá, eu sou o Izumilg 🌸</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=24&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Tudo+rosa,+sempre+💖;GitHub+foo+e+estiloso+✨" />
@@ -14,7 +14,7 @@
 - 🌷 Nome: **Lucas **
 - 🎀 Amo tudo rosa
 - 🌊 Estudando programação 
-- 💻 Desenvolvedora em evolução
+- 💻 Desenvolvedor em evolução
 
 ---
 

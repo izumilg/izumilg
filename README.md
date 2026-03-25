@@ -11,7 +11,7 @@
 
 ## 💖 Sobre mim
 
-- 🌷 Nome: **Lucas **
+- 🌷 Nome: Lucas 
 - 🎀 Amo tudo rosa
 - 🌊 Estudando programação 
 - 💻 Desenvolvedor em evolução

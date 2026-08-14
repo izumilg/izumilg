@@ -14,7 +14,7 @@
 - 🌷 Nome: Lucas 
 - 🎀 Amo tudo rosa
 - 🌊 Estudando programação 
-- 💻 Desenvolvedor em evolução
+- 💻 Buscando estágio em Tecnologia e Desenvolvimento de Software
 
 ---
 

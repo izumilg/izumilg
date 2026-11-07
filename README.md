@@ -47,7 +47,7 @@
 ![Git](https://img.shields.io/badge/Git-DB7093?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-FF85A2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![W3Schools](https://shields.io)
+![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logoColor=white)
 
 
 ---

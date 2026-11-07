@@ -36,6 +36,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF85A2?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-DB7093?style=for-the-badge&logo=bootstrap&logoColor=white)
+![W3Schools](https://img.shields.io/badge/W3Schools-FF69B4?style=for-the-badge&logoColor=white)
 
 ### Banco de Dados
 
@@ -47,7 +48,7 @@
 ![Git](https://img.shields.io/badge/Git-DB7093?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-FF85A2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![W3Schools](https://img.shields.io/badge/W3Schools-FF69B4?style=for-the-badge&logoColor=white)
+
 
 
 ---
